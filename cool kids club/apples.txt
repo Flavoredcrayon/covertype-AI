@@ -1,0 +1,1 @@
+apples 30.03949872 batch =61 epoch =12 hidden =26 test loss, test acc:[3138968434.736044, 1.0]
